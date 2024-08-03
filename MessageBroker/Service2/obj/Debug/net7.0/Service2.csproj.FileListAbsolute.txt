@@ -1,0 +1,17 @@
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/Service2
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/Service2.deps.json
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/Service2.runtimeconfig.json
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/Service2.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/Service2.pdb
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.csproj.AssemblyReference.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.AssemblyInfoInputs.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.AssemblyInfo.cs
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.csproj.CoreCompileInputs.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.csproj.CopyComplete
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/refint/Service2.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.pdb
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/Service2.genruntimeconfig.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/MessageBroker/Service2/obj/Debug/net7.0/ref/Service2.dll

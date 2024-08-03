@@ -2,17 +2,22 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Service2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Service1 FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Service2/Services/GreeterService.cs">
     <Files>
-      <File FileName="Service2/Protos/greet.proto" Line="14" Column="23" />
-      <File FileName="Service2/Services/GreeterService.cs" Line="7" Column="2" />
+      <File FileName="Service2/Protos/greet.proto" Line="23" Column="1" />
+      <File FileName="Service1/Program.cs" Line="2" Column="7" />
+      <File FileName="Service2/Services/GreeterService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="gRPC" expanded="True" selected="True">
+          <Node name="gRPC" expanded="True">
+            <Node name="Service1" selected="True">
+              <Node name="Protos" expanded="True" />
+            </Node>
             <Node name="Service2">
               <Node name="Protos" expanded="True" />
               <Node name="Services" expanded="True" />
