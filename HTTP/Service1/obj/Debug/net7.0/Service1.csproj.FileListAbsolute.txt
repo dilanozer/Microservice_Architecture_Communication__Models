@@ -1,0 +1,14 @@
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/bin/Debug/net7.0/Service1
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/bin/Debug/net7.0/Service1.deps.json
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/bin/Debug/net7.0/Service1.runtimeconfig.json
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/bin/Debug/net7.0/Service1.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/bin/Debug/net7.0/Service1.pdb
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.AssemblyInfoInputs.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.AssemblyInfo.cs
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.csproj.CoreCompileInputs.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/refint/Service1.dll
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.pdb
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/Service1.genruntimeconfig.cache
+/Users/dilanozer/Projects/Microservice_Architecture_Communication_Models/HTTP/Service1/obj/Debug/net7.0/ref/Service1.dll
