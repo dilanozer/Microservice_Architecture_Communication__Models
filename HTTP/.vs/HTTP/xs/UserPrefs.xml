@@ -1,5 +1,33 @@
 ﻿<Properties StartupConfiguration="{A5FA7172-A497-41BD-A4E5-94C678491776}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Service2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Service1/Program.cs">
+    <Files>
+      <File FileName="Service2/Program.cs" Line="1" Column="1" />
+      <File FileName="Service2/Properties/launchSettings.json" Line="26" Column="26" />
+      <File FileName="Service2/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="Service1/Program.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTTP" expanded="True">
+            <Node name="Service1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Service2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Service1 FirstBuild="True" />
 </Properties>
